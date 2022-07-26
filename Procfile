@@ -1,1 +1,2 @@
- Couldn't find that app.
+ web: gunicorn config.wsgi --log-file -
+ 
